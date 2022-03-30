@@ -1,7 +1,5 @@
 library(rstan)
 library(readr)
-library(car)
-library(tidyverse)
 
 # data scraped in python with pybaseball package
 
